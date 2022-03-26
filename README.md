@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hola 👋
 
-<!--
-**tonim2022/tonim2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mi
+Me llamo **antoni**, soy un apasionado por el desarrollo de software con tecnologias web, y actualmente estoy en constante aprendizaje sobre nuevas tendencias como la _Inteligencia artificial_ :muscle:.
 
-Here are some ideas to get you started:
+### Valores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Responsabilidad.
+- 🌱 Puntualidad.
+- 👯 Transparencia.
+
+### Hobby
+
+- 🏀 Jugar Basquet.
+- ⚽ Jugar Futbol.
+- :baseball:  Boley.
