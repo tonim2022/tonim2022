@@ -1,7 +1,16 @@
 ## Hola 👋
 
 ### Acerca de mi
-Me llamo **Antoni**, soy un apasionado por el desarrollo de software con tecnologías web, y actualmente estoy en constante aprendizaje sobre nuevas tendencias como la _Inteligencia artificial_ :muscle:.
+Me llamo **Antoni**, desarrollador de aplicaciones orientados a la web utilizando tecnologías como: 
+HTML, 
+CSS,
+JavaScript,
+SQL Server,
+GSAP,
+Angular,
+Node.js y
+Python
+Además me encanta interceptar novedades tales como la **Inteligencia Artificial**, así que no me resisto al cambio y estoy aquí para cambiar y dejar todo mi potencial sobre la tierra :muscle:.
 
 ### Valores
 
@@ -11,6 +20,6 @@ Me llamo **Antoni**, soy un apasionado por el desarrollo de software con tecnolo
 
 ### Hobby
 
-- 🏀 Jugar Basquet.
-- ⚽ Jugar Futbol.
-- :baseball:  Boley.
+- 🏀 Deportes.
+- :book: Leer libros y artículos.
+- :airplane: Viajes.
